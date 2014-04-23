@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/ThetaCRM-Utils.t
+lib/ThetaCRM/Utils.pm
